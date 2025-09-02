@@ -2,5 +2,5 @@
 begin
   write('Введите число: ');
   read(rad);
-  writeln(4*Pi*power(rad,2))
+  writeln(4/3*Pi*power(rad,3))
 end.
